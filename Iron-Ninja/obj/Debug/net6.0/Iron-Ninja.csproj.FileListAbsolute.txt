@@ -1,0 +1,15 @@
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\bin\Debug\net6.0\Iron-Ninja.exe
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\bin\Debug\net6.0\Iron-Ninja.deps.json
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\bin\Debug\net6.0\Iron-Ninja.runtimeconfig.json
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\bin\Debug\net6.0\Iron-Ninja.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\bin\Debug\net6.0\Iron-Ninja.pdb
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.csproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.AssemblyInfo.cs
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\obj\Debug\net6.0\refint\Iron-Ninja.dll
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.pdb
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\obj\Debug\net6.0\Iron-Ninja.genruntimeconfig.cache
+C:\Users\Jason\Desktop\Coding Dojo\C#\OOP\Iron-Ninja\obj\Debug\net6.0\ref\Iron-Ninja.dll
